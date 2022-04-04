@@ -21,7 +21,7 @@
         }
     ?>
 
-    
+        <!--Inserting Item-->
 
     <!-- CAtegories Section Starts Here -->
     <section class="categories">
