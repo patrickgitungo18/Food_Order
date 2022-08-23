@@ -14,9 +14,7 @@
             <th>CONTACT NO</th>
         </tr>
         <tr>
-            <td>PATRICK JAN GITUNGO</td>
-            <td>PALA-O, ILIGAN CITY</td>
-            <td>09265528647</td>
+           
         </tr>
     </table>
 </body>
