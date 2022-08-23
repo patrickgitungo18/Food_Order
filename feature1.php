@@ -7,6 +7,17 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <table>
+        <tr>
+            <th>NAME</th>
+            <th>ADDRESS</th>
+            <th>CONTACT NO</th>
+        </tr>
+        <tr>
+            <td>PATRICK JAN GITUNGO</td>
+            <td>PALA-O, ILIGAN CITY</td>
+            <td>09265528647</td>
+        </tr>
+    </table>
 </body>
 </html>
