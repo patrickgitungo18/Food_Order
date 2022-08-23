@@ -199,7 +199,7 @@
 				//4. Redirect to manage category with message
 				//Check whether executed or not
 
-				if(res2 == TRUE)
+				if($res2 == TRUE)
 				{
 					//Category Updated
 					$_SESSION['update'] = "<div class='success'>Category updated successfuly!</div>";
@@ -214,6 +214,7 @@
 
 
 			}
+			
 
 		?>
 		</div>
